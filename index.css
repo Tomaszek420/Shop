@@ -1,0 +1,48 @@
+body {
+	background-color:#353333;
+	text-decoration:none;
+}
+
+.logo {
+    width: 100%;
+	filter: blur(7px);
+}
+
+.hoodie {
+	 width: 100%; 
+    height: 100%; 
+    display: flex; 
+    align-items: center; 
+    justify-content: center; 
+	text-align: center;
+}
+
+.photo{
+width: 100%; 
+height: 100%; 	
+}
+
+p{
+	color:white;
+	font-weight:750;
+}
+
+h3{
+	color:white;
+}
+
+.info-product{
+	text-decoration:none;
+	font-size: 13px;
+	font-weight:800;
+	color:#C0C0C0;
+}
+
+.info-product:hover{
+	color:#800000;
+}
+
+.product{
+	border: 2px dashed black;   
+   
+}
